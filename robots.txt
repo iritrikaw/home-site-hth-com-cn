@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iritrikaw.github.io/home-site-hth-com-cn/sitemap.xml
